@@ -1,0 +1,15 @@
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\bin\Debug\net6.0\EjercicioPeliculas.exe
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\bin\Debug\net6.0\EjercicioPeliculas.deps.json
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\bin\Debug\net6.0\EjercicioPeliculas.runtimeconfig.json
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\bin\Debug\net6.0\EjercicioPeliculas.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\bin\Debug\net6.0\ref\EjercicioPeliculas.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\bin\Debug\net6.0\EjercicioPeliculas.pdb
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\ref\EjercicioPeliculas.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.pdb
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioPeliculas\EjercicioPeliculas\obj\Debug\net6.0\EjercicioPeliculas.genruntimeconfig.cache

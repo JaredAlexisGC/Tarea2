@@ -1,0 +1,15 @@
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\bin\Debug\net6.0\EjercicioTienda.exe
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\bin\Debug\net6.0\EjercicioTienda.deps.json
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\bin\Debug\net6.0\EjercicioTienda.runtimeconfig.json
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\bin\Debug\net6.0\EjercicioTienda.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\bin\Debug\net6.0\ref\EjercicioTienda.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\bin\Debug\net6.0\EjercicioTienda.pdb
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\ref\EjercicioTienda.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.pdb
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Tarea2\EjercicioTienda\EjercicioTienda\obj\Debug\net6.0\EjercicioTienda.genruntimeconfig.cache
